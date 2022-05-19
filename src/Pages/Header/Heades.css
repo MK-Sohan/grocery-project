@@ -20,6 +20,18 @@
   color: #fff;
 }
 
+.logout {
+  height: 4rem;
+  width: 8rem;
+  background-color: rgb(244, 75, 75);
+  color: white;
+  font-size: 17px;
+  border-radius: 5px;
+  padding: 8px;
+  cursor: pointer;
+  font: 800;
+}
+
 html {
   font-size: 62.5%;
   overflow-x: hidden;

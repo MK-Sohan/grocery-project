@@ -10,7 +10,7 @@
     },
     {
     
-      "image": "https://ibb.co/dQrgnn7",
+      "image": "https://i.ibb.co/wKRsDDY/cart-img-2.png",
       "productname": "Onion",
       "price": "$146.85",
       "quantity": 293,
@@ -19,8 +19,8 @@
     },
     {
     
-      "image": "Orange",
-      "productname": "",
+      "image": "https://i.ibb.co/Qj9K3k6/product-1.png",
+      "productname": "Orange",
       "price": "$146.12",
       "quantity": 194,
       "suppliername": "Esther Hester",
@@ -28,8 +28,8 @@
     },
     {
     
-      "image": "Potato",
-      "productname": "",
+      "image": "https://i.ibb.co/bP2NJwS/product-5.png",
+      "productname": "Potato",
       "price": "$76.39",
       "quantity": 298,
       "suppliername": "Downs Hartman",
@@ -37,7 +37,7 @@
     },
     {
     
-      "image": "https://ibb.co/y58TcPt",
+      "image": "https://i.ibb.co/K79Zphd/product-8.png",
       "productname": "Lemon",
       "price": "$127.08",
       "quantity": 543,
@@ -46,7 +46,7 @@
     },
     {
     
-      "image": "https://ibb.co/C7H1spJ",
+      "image": "https://i.ibb.co/vPjwvCs/brinjal.png",
       "productname": "Brinzal",
       "price": "$75.98",
       "quantity": 339,
@@ -71,15 +71,7 @@
       "suppliername": "Blackburn Lang",
       "description": ""
     },
-    {
     
-      "image": "https://i.ibb.co/bvqLW8p/chilli-green-red-free-clipart-hq.png",
-      "productname": "Red-Chilli",
-      "price": "$100.61",
-      "quantity": 320,
-      "suppliername": "June Wilkins",
-      "description": ""
-    },
     {
     
       "image": "https://i.ibb.co/xhc5QBC/product-4.png",
@@ -91,8 +83,8 @@
     },
     {
     
-      "image": "Carrot",
-      "productname": "",
+      "image": "https://i.ibb.co/dgPPv3n/product-7.png",
+      "productname": "Carrot",
       "price": "$116.85",
       "quantity": 658,
       "suppliername": "Jaclyn Carrillo",
@@ -100,8 +92,8 @@
     },
     {
     
-      "image": "Tomato",
-      "productname": "",
+      "image": "https://i.ibb.co/ccMbgwH/tomato-png-image.png",
+      "productname": "Tomato",
       "price": "$193.64",
       "quantity": 275,
       "suppliername": "Jean Harmon",

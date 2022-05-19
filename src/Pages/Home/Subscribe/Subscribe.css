@@ -1,0 +1,33 @@
+.newsletter {
+  background: url("https://i.ibb.co/qs31w6V/banner-bg.webp") no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  padding: 5rem 2rem;
+}
+
+.newsletter h3 {
+  font-size: 3rem;
+  color: var(--black);
+}
+
+.newsletter form {
+  max-width: 55rem;
+  display: flex;
+  align-items: center;
+  margin: 1rem auto;
+  padding: 1.5rem;
+  background: rgba(0, 0, 0, 0.1);
+}
+
+.newsletter form .box {
+  width: 100%;
+  padding: 0.7rem 1.5rem;
+  font-size: 1.7rem;
+  color: #333;
+  text-transform: none;
+}
+
+.newsletter form .btn {
+  margin-top: 0;
+}

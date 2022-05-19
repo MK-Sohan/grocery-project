@@ -1,6 +1,10 @@
 import React from "react";
 import Banner from "../Banner/Banner";
+import Caruselproduct from "../Carusel/Caruselproduct";
 import Catagory from "../Catagory/Catagory";
+import Contactus from "../Contact/Contactus";
+import BestDeal from "../Deal/BestDeal";
+import Subscribe from "../Subscribe/Subscribe";
 import Topproduct from "../TopProduct/Topproduct";
 import "./Home.css";
 const Home = () => {
@@ -23,6 +27,10 @@ const Home = () => {
       <Banner></Banner>
       <Catagory></Catagory>
       <Topproduct></Topproduct>
+      <Caruselproduct></Caruselproduct>
+      <BestDeal></BestDeal>
+      <Contactus></Contactus>
+      <Subscribe></Subscribe>
     </div>
   );
 };
